@@ -1,0 +1,29 @@
+##OpenCV (cv2)
+
+##imutils
+
+##Pytesseract
+
+##Steps performed by the code:
+
+##Reading the Image
+
+##Resizing the Image
+
+##Converting to Grayscale
+
+
+##Smoothing the Image
+
+##Edge Detection
+
+
+##Contour Detection
+
+###Approximating License Plate Contour
+
+##Extracting License Plate
+
+##Drawing the Detected License Plate
+
+##Displaying Results using cv2.destroyAllWindows().
